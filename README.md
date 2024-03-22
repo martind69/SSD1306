@@ -1,9 +1,11 @@
-# SSD1306
+# SSD1306 Library
 
 This library is the driver for SSD1306 based OLED screens. The original implementation is from Neven Boyanov, Tinusaur Team.
 
 This library is tested on PIC18F27/47/57Q84 and Dealikee 0.96" OLED Display Module, 128 x 64 px.
 
+# Examples
+Basic code snippets
 ## How to use the code
 
 ```
